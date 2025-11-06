@@ -5,10 +5,6 @@
 ---
 
 ### 💖 حمایت از پروژه
-اگر این پروژه برای شما مفید بوده،  
-می‌توانید از طریق لینک زیر کمک کنید:
-
-👉 [حمایت از پروژه در NowPayments](https://nowpayments.io/donation/permiumbotmirza)
 
 ---
 
@@ -23,10 +19,7 @@ We welcome your contributions, suggestions, and collaboration to help it grow �
 ---
 
 ### 💖 Support the Project
-If you find this project useful,  
-you can support it through the link below:
 
-👉 [Support the Project on NowPayments](https://nowpayments.io/donation/permiumbotmirza)
 
 ---
 
